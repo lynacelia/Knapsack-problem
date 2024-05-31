@@ -5,4 +5,4 @@ Fonctionnalités
 Interface graphique conviviale avec Tkinter pour saisir les détails du problème du sac à dos.
 Implémentation des algorithmes génétiques, du recuit simulé et de la recherche tabou.
 Intégration des algorithmes avec l'interface utilisateur pour résoudre le problème du sac à dos.
-Affichage des résultats sous forme de graphiques dans l'interface utilisateu.
+Affichage des résultats sous forme de graphiques dans l'interface utilisateur.
